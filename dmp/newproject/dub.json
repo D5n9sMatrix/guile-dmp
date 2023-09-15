@@ -1,0 +1,6 @@
+{
+    "name": "newproject",
+    "targetName": "newproject",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

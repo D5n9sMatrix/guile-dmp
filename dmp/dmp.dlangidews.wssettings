@@ -1,0 +1,19 @@
+{
+    "startupProject": "newproject",
+    "expandedItems": [
+        "/home/admin/guile-dlang/guile-dmp/dmp/newproject/dub.json",
+        "/home/admin/guile-dlang/guile-dmp/dmp/newproject/source/repl/repl_console",
+        "/home/admin/guile-dlang/guile-dmp/dmp/newproject/source",
+        "/home/admin/guile-dlang/guile-dmp/dmp/newproject/source/repl/repl_browser",
+        "/home/admin/guile-dlang/guile-dmp/dmp/newproject/source/repl/repl_net",
+        "/home/admin/guile-dlang/guile-dmp/dmp/newproject/source/repl"
+    ],
+    "selectedWorkspaceItem": "/home/admin/guile-dlang/guile-dmp/dmp/newproject/source/app.d",
+    "buildConfiguration": 0,
+    "files": [
+    ],
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ]
+}

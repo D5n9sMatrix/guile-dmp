@@ -1,0 +1,9 @@
+{
+    "name": "dmp",
+    "description": null,
+    "projects": {
+        "newproject": "newproject/dub.json"
+    },
+    "includePath": {
+    }
+}
