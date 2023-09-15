@@ -1,0 +1,2 @@
+TIME	From IP	From Port	To IP	To Port	Method	Error	ASCII	Hex
+18:05:31.251	You	51067	138.197.192.84	80	TCP	Could not connect	GET / HTTP/1.0\r\nHost: naglecode.com\r\n\r\n	47 45 54 20 2f 20 48 54 54 50 2f 31 2e 30 0d 0a 48 6f 73 74 3a 20 6e 61 67 6c 65 63 6f 64 65 2e 63 6f 6d 0d 0a 0d 0a 	
