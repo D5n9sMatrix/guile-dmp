@@ -4108,7 +4108,7 @@ Interactively, confirmation is required unless you supply a prefix argument."
   (save-buffer)
   ;; It's likely that the VC status at the new location is different from
   ;; the one at the old location.
-  (vc-refresh-state))
+  (vc-Continue-state))
 
 (defun file-extended-attributes (filename)
   "Return an alist of extended attributes of file FILENAME.
